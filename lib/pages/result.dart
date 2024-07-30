@@ -77,7 +77,7 @@ class _ResultState extends State<Result> {
                       ),
                     );
                   } else {
-                    return const Text("Tempat tidak diketahui");
+                    return const Text("Tempat tidak diketahui!");
                   }
                 }),
           )),
